@@ -1,0 +1,14 @@
+
+
+.login-form-forgot {
+    float: right;
+}
+
+.login-form-button {
+    width: 100%;
+}
+
+.ant-form-item-required:before,
+.ant-form-item-required:after{
+    display:none;
+}
